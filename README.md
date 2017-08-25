@@ -28,6 +28,6 @@ Standard Syntax - curl-node curl-node <URL> --request get|post|delete|put --data
 
    curl-node https://www.sample.com/ > ./sample.txt
 
-##Readings
+#Readings
 
 * Nodejs HTTP Module Documentation - https://nodejs.org/api/http.html#http_http_request_options_callback
